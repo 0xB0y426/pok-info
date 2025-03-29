@@ -1,2 +1,2 @@
-# pok-info
+# pokéinfo
 Pokémon database search
